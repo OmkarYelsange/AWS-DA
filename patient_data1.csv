@@ -1,0 +1,51 @@
+﻿Patient ID,Name,Age,Diagnosis,Treatment,Files
+1,Ethan Walker,45,Diabetes,Insulin Therapy,3
+2,Olivia Harris,29,Asthma,Bronchodilators,2
+3,Liam Johnson,61,Hypertension,ACE Inhibitors,4
+4,Sophia Brown,37,Migraine,Pain Relievers,2
+5,Noah Wilson,54,Arthritis,NSAIDs,3
+6,Emma Davis,26,Anemia,Iron Supplements,2
+7,James Miller,48,Kidney Stones,Lithotripsy,5
+8,Ava Taylor,31,Gastritis,Antacids,2
+9,Benjamin Moore,67,Heart Disease,Angioplasty,4
+10,Charlotte White,22,Allergies,Antihistamines,1
+11,Lucas Martin,58,COPD,Pulmonary Rehabilitation,3
+12,Amelia Clark,40,Obesity,Diet & Exercise,2
+13,Henry Lewis,35,Depression,Cognitive Behavioral Therapy,2
+14,Mia Young,27,Acid Reflux,Proton Pump Inhibitors,2
+15,Daniel Hall,63,Osteoporosis,Calcium Supplements,3
+16,Isabella Allen,50,Skin Cancer,Surgical Removal,5
+17,Alexander King,39,Epilepsy,Antiepileptic Drugs,4
+18,Harper Scott,46,Pneumonia,Antibiotics,3
+19,Michael Green,55,Chronic Pain,Pain Management,4
+20,Evelyn Adams,24,Gastroenteritis,Rehydration Therapy,2
+21,Matthew Baker,44,Tuberculosis,Anti-TB Medication,4
+22,Abigail Carter,33,Thyroid Disorder,Hormone Therapy,3
+23,David Mitchell,52,Liver Disease,Medication & Diet,4
+24,Ella Perez,36,Anxiety,Counseling,2
+25,Joseph Roberts,60,Parkinson's Disease,Dopamine Therapy,5
+26,Grace Turner,28,Sinusitis,Antibiotics,2
+27,Samuel Phillips,49,High Cholesterol,Statins,3
+28,Chloe Campbell,41,Tinnitus,Sound Therapy,2
+29,Andrew Parker,65,Stroke Recovery,Physiotherapy,5
+30,Scarlett Evans,30,PCOS,Hormonal Treatment,2
+31,Christopher Collins,57,Cataract,Cataract Surgery,4
+32,Lily Stewart,23,Viral Fever,Paracetamol & Rest,1
+33,Gabriel Sanchez,47,Psoriasis,Topical Steroids,3
+34,Zoey Morris,34,Bronchitis,Bronchodilators,2
+35,Anthony Rogers,69,Alzheimer's Disease,Cognitive Therapy,5
+36,Hannah Reed,25,Dengue,Fluid Therapy,3
+37,Joshua Cook,51,Gallstones,Cholecystectomy,4
+38,Victoria Morgan,38,Eczema,Moisturizers & Steroids,2
+39,Ryan Bell,42,Sleep Apnea,CPAP Therapy,3
+40,Natalie Murphy,27,Tonsillitis,Antibiotics,2
+41,Jack Bailey,56,Glaucoma,Eye Drops,3
+42,Aria Rivera,32,IBS,Dietary Changes,2
+43,Nathan Cooper,43,Leukemia,Chemotherapy,6
+44,Stella Richardson,21,Influenza,Antiviral Medication,1
+45,Aaron Cox,64,Prostate Cancer,Radiation Therapy,5
+46,Penelope Howard,35,Fibromyalgia,Pain Management,3
+47,Dylan Ward,53,Hepatitis B,Antiviral Therapy,4
+48,Nora Torres,29,UTI,Antibiotics,2
+49,Caleb Peterson,59,Asthma,Inhaled Corticosteroids,3
+50,Layla Gray,31,Appendicitis,Appendectomy,4
