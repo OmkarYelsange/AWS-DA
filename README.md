@@ -1,4 +1,4 @@
-# ☁️ AWS Healthcare Data Analytics & ETL Pipeline
+# ☁️ AWS Data Analytics & ETL Pipeline
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Analytics-orange?style=for-the-badge&logo=amazon-aws" />
