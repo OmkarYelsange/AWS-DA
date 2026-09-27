@@ -632,9 +632,7 @@ https://github.com/OmkarYelsange/AWS-DA
 
 ---
 
-## 📄 License
-
-This project is intended for **educational and portfolio purposes**.
+## 📄 License
 
 ---
 
