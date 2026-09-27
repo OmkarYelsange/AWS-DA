@@ -628,11 +628,7 @@ Data Analytics | Data Engineering | AWS | SQL | Python
 If you find this project useful or helpful for learning AWS Data Analytics, consider giving the repository a ⭐.
 
 **Repository:**
-https://github.com/OmkarYelsange/AWS-DA
-
----
-
-## 📄 License
+https://github.com/OmkarYelsange/AWS-DA
 
 ---
 
