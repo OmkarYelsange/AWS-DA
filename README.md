@@ -613,22 +613,12 @@ The project implements a complete cloud analytics workflow:
 
 **Omkar Yelsange**
 
-B.E. Robotics & Automation Engineering
 Data Analytics | Data Engineering | AWS | SQL | Python
 
 ### Connect With Me
 
 * 💼 **LinkedIn:** [Omkar Yelsange](https://www.linkedin.com/)
 * 🐙 **GitHub:** [OmkarYelsange](https://github.com/OmkarYelsange)
-
----
-
-# ⭐ Project
-
-If you find this project useful or helpful for learning AWS Data Analytics, consider giving the repository a ⭐.
-
-**Repository:**
-https://github.com/OmkarYelsange/AWS-DA
 
 ---
 
